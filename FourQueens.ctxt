@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=size
+comment0.target=void\ main(int)
+comment1.params=chessBoard\ row\ column\ lastRow\ lastColumn
+comment1.target=void\ find(Board,\ int,\ int,\ int,\ int)
+numComments=2
